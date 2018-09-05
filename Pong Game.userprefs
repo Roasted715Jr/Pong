@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity 4.7.2\Paintball Online\Assets\My Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="..\Unity 4.7.2\Paintball Online\Assets\My Assets\Scripts\PlayerController.cs" Line="27" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
